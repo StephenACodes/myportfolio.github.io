@@ -2,11 +2,15 @@
 
 **Summary**: This project analyses Airbnb pricing trends in New York City. An interactive Python notebook is developed to explore property segmentation based on location, type, amenities offered, proximity to points of interest, price, number of reviews, and availability, providing data-driven insights for pricing strategies. Predictive models are created to forecast property prices based on these factors. Additionally, a Power BI dashboard is developed to visually present some of the key insights generated. 
 
+### Interactive Python Notebook
+
+The Python notebook includes all analyses and data visualisations developed for this project. It can be viewed (here)[https://stephenacodes.github.io/myportfolio.github.io/Project1/Airbnb.html]. 
+
 ### Dashboard Demonstration
 
 ![PowerBI Dashboard](https://github.com/StephenACodes/myportfolio.github.io/blob/main/Project1/AirbnbDashboard.png)
 
-The dashboard can be accessed interactively by downloading the [AirbnbDashboard.pbix](Project1/AirbnbDashboard.pbix) file from the folder above. 
+The dashboard can be accessed interactively by downloading the [AirbnbDashboard.pbix](Project1/AirbnbDashboard.pbix) file. 
 ## About the Project
 
 ### Data Source
