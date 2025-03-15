@@ -4,7 +4,7 @@
 
 ### Dashboard Demonstration
 
-![PowerBI Dashboard](Project1/AirbnbDahboard.png)
+![PowerBI Dashboard](Project1/AirbnbDashboard.png)
 
 The dashboard can be accessed interactively by downloading the [AirbnbDashboard.pbix](Project1/Airbnb Dashboard.pbix) file from the folder above. 
 ## About the Project
@@ -25,7 +25,6 @@ Our findings also contribute to the broader discourse on the sharing economy, em
 
 ## Feedback is welcome. Connect with me:
 
-[Ayush:](https://stephenacodes.github.io/myportfolio.github.io/)
 - Linkedin: https://www.linkedin.com/in/ayush-stephen-toppo-aa29b8201
 - Email: ayushstephen2002@gmail.com
  
