@@ -13,7 +13,7 @@ Python, R, C++, SQL, PowerBI, Tableau, Looker Studio, Google Cloud Computing, Ad
 
 [Project1](https://github.com/StephenACodes/myportfolio.github.io/tree/main/Project1)
 
-![PowerBI Dashboard](https://github.com/StephenACodes/myportfolio.github.io/blob/main/Project1/AirbnbDashboard.png)
+![PowerBI Dashboard](Project1/AirbnbDashboard.png)
 
 This project analyzed factors influencing Airbnb prices in New York City using statistical analysis methods and data visualization. It included property segmentation based on characteristics like location and amenities, and audience analysis to assess market demand and pricing trends across neighborhoods. The insights aid stakeholders in developing data-driven pricing strategies for selecting the best places. A Power BI dashboard was created to visualize the findings, incorporating DAX queries for dynamic calculations and Power Query for data transformation, enabling interactive analysis of pricing trends and market dynamics across different neighborhoods.
 
@@ -21,7 +21,7 @@ This project analyzed factors influencing Airbnb prices in New York City using s
 
 [Project2](https://github.com/rheamall/Northwind-Traders-SQL-Analysis)
 
-![Looker Studio Dashboard](https://github.com/StephenACodes/myportfolio.github.io/blob/main/Folder1/NorthwindTradersDashboard.png)
+![Looker Studio Dashboard](Folder1/NorthwindTradersDashboard.png)
 
 This project is comprehensive SQL analysis of the Northwind Traders database, exploring data insights through complex queries, joins and CTEs. This project involved analyzing sales revenue, customer behavior, suppliers, operational efficiency and logistics to derive actionable insights for business improvement.
 
