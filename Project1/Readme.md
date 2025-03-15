@@ -6,7 +6,7 @@
 
 ![PowerBI Dashboard](https://github.com/StephenACodes/myportfolio.github.io/blob/main/Project1/AirbnbDashboard.png)
 
-The dashboard can be accessed interactively by downloading the [AirbnbDashboard.pbix](Project1/Airbnb Dashboard.pbix) file from the folder above. 
+The dashboard can be accessed interactively by downloading the [AirbnbDashboard.pbix](Project1/AirbnbDashboard.pbix) file from the folder above. 
 ## About the Project
 
 ### Data Source
