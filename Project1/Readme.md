@@ -4,7 +4,7 @@
 
 ### Dashboard Demonstration
 
-![PowerBI Dashboard](Project1/AirbnbDashboard.png)
+![PowerBI Dashboard](myportfolio.github.io/Project1/AirbnbDashboard.png)
 
 The dashboard can be accessed interactively by downloading the [AirbnbDashboard.pbix](Project1/Airbnb Dashboard.pbix) file from the folder above. 
 ## About the Project
