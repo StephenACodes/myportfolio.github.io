@@ -5,7 +5,7 @@
 ### Interactive Python Notebook
 
 The Python notebook includes all analyses and data visualisations developed for this project. It can be viewed 
-(here)[https://stephenacodes.github.io/myportfolio.github.io/Project1/Airbnb.html]. 
+[here](https://stephenacodes.github.io/myportfolio.github.io/Project1/Airbnb.html). 
 
 ### Dashboard Demonstration
 
