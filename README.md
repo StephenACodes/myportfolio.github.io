@@ -21,7 +21,7 @@ This project analyzed factors influencing Airbnb prices in New York City using s
 
 [Project2](https://github.com/rheamall/Northwind-Traders-SQL-Analysis)
 
-![Looker Studio Dashboard](Folder1/NorthwindTradersDashboard.png)
+![Looker Studio Dashboard](Folder1/NorthwindPics.png)
 
 This project is comprehensive SQL analysis of the Northwind Traders database, exploring data insights through complex queries, joins and CTEs. This project involved analyzing sales revenue, customer behavior, suppliers, operational efficiency and logistics to derive actionable insights for business improvement.
 
