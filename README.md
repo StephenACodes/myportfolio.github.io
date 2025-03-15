@@ -5,26 +5,23 @@ I'm Ayush, a recent graduate in Data Science from the London School of Economics
 My email: [ayushstephen2002@gmail.com](mailto:ayushstephen2002@gmail.com)
 
 **Technical Skills:**  
-Python, R, C++, Java, SQL, PowerBI, Tableau, Google Cloud Computing, Advanced Excel
-
-## My Education
-
-- MSc, Data Science       | The London School of Economics and Political Science (_September 2023 - September 2024_)
-- BSc(Hons.), Mathematics | St. Stephen's College, University of Delhi (_November 2020 - June 2023_)
+Python, R, C++, SQL, PowerBI, Tableau, Looker Studio, Google Cloud Computing, Advanced Excel. 
 
 ## My Projects
 
 ### An Analysis of Airbnb Prices in New York City
 
-[Project1](Project1/Airbnb.html)
+[Project1](https://github.com/StephenACodes/myportfolio.github.io/tree/main/Project1)
 
-![PowerBI Dashboard](Project1/AirbnbDahboard.png)
+![PowerBI Dashboard](https://github.com/StephenACodes/myportfolio.github.io/blob/main/Project1/AirbnbDashboard.png)
 
 This project analyzed factors influencing Airbnb prices in New York City using statistical analysis methods and data visualization. It included property segmentation based on characteristics like location and amenities, and audience analysis to assess market demand and pricing trends across neighborhoods. The insights aid stakeholders in developing data-driven pricing strategies for selecting the best places. A Power BI dashboard was created to visualize the findings, incorporating DAX queries for dynamic calculations and Power Query for data transformation, enabling interactive analysis of pricing trends and market dynamics across different neighborhoods.
 
 ### Northwind Traders SQL Analysis
 
 [Project2](https://github.com/rheamall/Northwind-Traders-SQL-Analysis)
+
+![Looker Studio Dashboard](https://github.com/StephenACodes/myportfolio.github.io/blob/main/Folder1/NorthwindTradersDashboard.png)
 
 This project is comprehensive SQL analysis of the Northwind Traders database, exploring data insights through complex queries, joins and CTEs. This project involved analyzing sales revenue, customer behavior, suppliers, operational efficiency and logistics to derive actionable insights for business improvement.
 
