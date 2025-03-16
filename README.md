@@ -44,9 +44,7 @@ The insights generated from this project were tailored to enhance Yelp’s revie
 
 ### Developing Methods for the Coordinate Descent Algorithm
 
-[Project Report](Project4/Coordinate%20Descent%20Algorithm.pdf)
-
-[Project5](Project4/Coordinate%20Descent%20Algorithm.R)
+[Project5](https://github.com/StephenACodes/myportfolio.github.io/tree/main/Project4)
 
 This project involved developing coordinate descent algorithms to solve lasso and elastic net regression problems, with a focus on optimizing predictive accuracy and variable selection. K-fold cross-validation was applied to fine-tune models using mean-squared error (MSE) values for optimization. Performance was analyzed across scenarios where the number of data points (n) exceeds the number of variables (p), and where variables (p) exceed data points (n). The results demonstrated that elastic net outperforms lasso, particularly in complex scenarios with highly correlated variables and limited data availability.
 
