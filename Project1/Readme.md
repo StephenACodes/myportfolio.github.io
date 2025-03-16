@@ -1,4 +1,4 @@
-# Analysis of Airbnb Prices in New York City
+# Analysing Airbnb Prices in New York City
 
 **Summary**: This project analyses Airbnb pricing trends in New York City. An interactive Python notebook is developed to explore properties based on location, type, amenities offered, proximity to points of interest, price, number of reviews, and availability, providing data-driven insights for pricing strategies. Predictive models are created to forecast property prices based on these factors. Additionally, a Power BI dashboard is developed to visually present some of the key insights generated. 
 
