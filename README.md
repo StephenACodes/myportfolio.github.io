@@ -4,8 +4,7 @@ I'm Ayush, a recent graduate in Data Science from the London School of Economics
 Feel free to explore my work below, and don't hesitate to reach out if you're interested in collaborating or learning more!
 
 **Contact Me:**  
-Email: [ayushstephen2002@gmail.com](mailto:ayushstephen2002@gmail.com)
-
+Email: [ayushstephen2002@gmail.com](mailto:ayushstephen2002@gmail.com) <br>
 Linkedin: [LinkedIn-Ayush Stephen Toppo](https://www.linkedin.com/in/ayush-stephen-toppo-aa29b8201)
 
 **Technical Skills:**  
