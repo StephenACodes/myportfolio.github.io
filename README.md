@@ -34,13 +34,13 @@ This project is comprehensive SQL analysis of the Northwind Traders database, ex
 
 This project investigated median income increases across New York counties from 2014 to 2019. We used socio-demographic data on the US census tract level to predict whether a given census tract experienced positive economic growth, measured by the median income. We collected data from the US Census Bureau for the economic and social indicators on the Census Tract Level made available from the American Community Survey 5-Year Data (ACS5). To measure the economic change, we retrieved the median income for both 2014 and 2019 and computed the percentage change over the time period. In addition, we created a new variable to classify a census tract based on the direction of change in median income. Using socio-economic factors like education and unemployment rate, among many others, as predictors, we utilized Machine Learning models from linear regression to Neural Networks to identify significant predictors of income growth and to provide insights into factors driving economic development in different regions.
 
-### Predicting Yelp Review Popularity 
+### Uncovering What Makes Reviews on Yelp Popular 
 
 [Project4](https://github.com/StephenACodes/myportfolio.github.io/tree/main/Project3)
 
 The insights generated from this project were tailored to enhance Yelp’s review management system to support a more engaging customer experience. The project aimed to predict which reviews are most likely to be useful and popular. Leveraging Big Data frameworks and natural language processing techniques, it analyzed key factors influencing review utility, enabling the development of machine learning models that accurately forecast review popularity.  
 
-### Developing Methods for the Coordinate Descent Algorithm
+### Optimizing Regression Models with Coordinate Descent
 
 [Project5](https://github.com/StephenACodes/myportfolio.github.io/tree/main/Project4)
 
