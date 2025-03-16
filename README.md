@@ -1,8 +1,11 @@
 ## Welcome! 
-I'm Ayush, a recent graduate in Data Science from the London School of Economics (LSE). This space highlights my journey through data science, showcasing key projects where I've applied my passion for turning complex data into actionable insights. Feel free to explore my work below, and don't hesitate to reach out if you're interested in collaborating or learning more!
+I'm Ayush, a recent graduate in Data Science from the London School of Economics (LSE). This space highlights my journey through data science, showcasing key projects where I've applied my passion for turning complex data into actionable insights. My recent work with the Westminster City Council was awarded the Winton Prize for Best Capstone Project at LSE ([News](https://www.winton.com/news/winton-prizes-for-excellence-in-statistics-2025). 
+
+Feel free to explore my work below, and don't hesitate to reach out if you're interested in collaborating or learning more!
 
 **Contact Me:**  
-My email: [ayushstephen2002@gmail.com](mailto:ayushstephen2002@gmail.com)
+Email: [ayushstephen2002@gmail.com](mailto:ayushstephen2002@gmail.com)
+Linkedin: [LinkedIn-Ayush Stephen Toppo](https://www.linkedin.com/in/ayush-stephen-toppo-aa29b8201)
 
 **Technical Skills:**  
 Python, R, C++, SQL, PowerBI, Tableau, Looker Studio, Google Cloud Computing, Advanced Excel. 
