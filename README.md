@@ -30,9 +30,7 @@ This project is comprehensive SQL analysis of the Northwind Traders database, ex
 
 ### Comparing Machine Learning Methods for Predicting Income Increase 
 
-[Project3](Project2/ST443.html)
-
-[Project Report](Project2/ML%20Report.pdf)
+[Project3](https://github.com/StephenACodes/myportfolio.github.io/tree/main/Project2)
 
 This project investigated median income increases across New York counties from 2014 to 2019. We used socio-demographic data on the US census tract level to predict whether a given census tract experienced positive economic growth, measured by the median income. We collected data from the US Census Bureau for the economic and social indicators on the Census Tract Level made available from the American Community Survey 5-Year Data (ACS5). To measure the economic change, we retrieved the median income for both 2014 and 2019 and computed the percentage change over the time period. In addition, we created a new variable to classify a census tract based on the direction of change in median income. Using socio-economic factors like education and unemployment rate, among many others, as predictors, we utilized Machine Learning models from linear regression to Neural Networks to identify significant predictors of income growth and to provide insights into factors driving economic development in different regions.
 
