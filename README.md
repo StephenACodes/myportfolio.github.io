@@ -37,6 +37,7 @@ This project investigated median income increases across New York counties from 
 ### A/B Testing in Mobile Games: Analyzing Player Retention in Cookie Cats
 
 [Project4](https://github.com/StephenACodes/myportfolio.github.io/tree/main/Project5)
+
 Cookie Cats, a popular match-three puzzle game by Tactile Entertainment, features gates that require waiting or in-app purchases to progress. This project uses A/B testing methods to analyze the impact of moving the first gate from level 30 to level 40 on player retention.
 
 ### Uncovering What Makes Reviews on Yelp Popular 
