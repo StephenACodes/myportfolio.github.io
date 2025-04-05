@@ -12,6 +12,8 @@ The Python notebook includes all analyses and data visualisations developed for 
 ![PowerBI Dashboard](https://github.com/StephenACodes/myportfolio.github.io/blob/main/Project1/AirbnbDashboard.png)
 
 The dashboard can be accessed interactively by downloading the [AirbnbDashboard.pbix](Project1/AirbnbDashboard.pbix) file. 
+
+[Dashboard](https://app.powerbi.com/reportEmbed?reportId=e5bd9466-c4c4-4bdd-88d0-00f8f4c23d47&autoAuth=true&ctid=12b4fbf9-dea8-4490-bede-9cc40309ad61)
 ## About the Project
 
 ### Data Source
